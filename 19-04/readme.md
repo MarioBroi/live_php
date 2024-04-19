@@ -1,0 +1,3 @@
+- Creiamo due classi, una per rappresentare un `Utente` ed una per l'utente Premium.
+- Aggiungiamo una classe `Membership` da passare nel costrutore della sottoclasse `PremiumUser`. 
+- Usare getters e setters per recuperare i valori di proprietá private o protette.
